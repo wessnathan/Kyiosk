@@ -3,13 +3,12 @@ Multivendor E-commerce platform
 
 A trusted local e-commerce platform.
 
-Kyiosk is a mobile-first marketplace built for Kenyan small and medium enterprises (SMEs). It provides customizable business pages, secure escrow payments, hyper-local discovery, and blockchain-backed trust systems to help businesses reach more customers while building credibility.
+Kyiosk is a mobile-first marketplace built for Kenyan small and medium enterprises (SMEs). It provides customizable business pages, secure escrow payments, hyper-local discovery, and a trust systems to help businesses reach more customers while building credibility.
 
  Features
 
 - Custom Business Pages — Professional storefronts with unique IDs, geolocation, and product catalogs.
 - Secure Escrow Payments — Multi-business cart checkout with delivery/pick-up options and Kyiosk as intermediary.
-- Blockchain Trust System — Verified transactions and client satisfaction tracking for reliable reviews.
 - Hyper-Local Discovery — Search products and businesses by location, tags, and availability.
 - Product Management — Variations (size/color), offers, pre-orders, and real-time stock tracking.
 - Social Integration — Share products across WhatsApp, Instagram, Facebook, and more.
